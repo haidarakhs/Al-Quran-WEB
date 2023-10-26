@@ -1,0 +1,8 @@
+.card-surat{
+    cursor: pointer;
+    transition: .8s;
+}
+.card-surat:hover{
+    background-color: #9edebd;
+}
+
